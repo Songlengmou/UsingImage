@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/UsingImage.iml" filepath="$PROJECT_DIR$/UsingImage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_game2d/android_game2d.iml" filepath="$PROJECT_DIR$/android_game2d/android_game2d.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yunp_android_java_common_lib/yunp_android_java_common_lib.iml" filepath="$PROJECT_DIR$/yunp_android_java_common_lib/yunp_android_java_common_lib.iml" />
     </modules>
   </component>
 </project>
